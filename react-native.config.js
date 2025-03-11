@@ -9,7 +9,7 @@ module.exports = {
     dependencies: {
       'react-native-device-info': {
         platforms: {
-          ios: {},  
+          ios: {},   
           android: {}, 
         },
       },
